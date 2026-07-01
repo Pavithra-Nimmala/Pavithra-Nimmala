@@ -46,10 +46,7 @@
 
 ###  GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pavithra-Nimmala&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithra-Nimmala&layout=compact&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavithra-Nimmala&theme=tokyonight" />
@@ -64,9 +61,4 @@
 
 ---
 
-###  Connect With Me
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pavithra-Nimmala&color=2E9EF7" alt="profile views"/>
-</p>
